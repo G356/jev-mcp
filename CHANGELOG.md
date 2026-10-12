@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.14.2
+
+- Updated jev-agent-tools to 0.2.1 and Zod to 4.6.6. MCP's per-tool validation rules are unchanged.
+
 ## 0.14.1
 
 - OpenRouter: token-limit rejections report `OpenRouter decisions API 400 (max_tokens_exceeded)`; unknown error types and all upstream text stay hidden. Via [#57](https://github.com/jkudish/jev-mcp/pull/57) by [@nicolas-found42](https://github.com/nicolas-found42).
