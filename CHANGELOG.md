@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.14.3
+
+- Updated Zod to 4.6.7.
+
 ## 0.14.2
 
 - Updated jev-agent-tools to 0.2.1 and Zod to 4.6.6. MCP's per-tool validation rules are unchanged.
