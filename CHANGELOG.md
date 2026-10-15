@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.14.4
+
+- Updated TypeSafe SDK to 0.7.0; no tool behavior changes.
+
 ## 0.14.3
 
 - Updated Zod to 4.6.7.
