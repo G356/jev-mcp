@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.14.5
+
+- Updated the repository's locked Hono dependency to 4.13.13. No tool behavior changes; this does not enforce a Hono minimum in consumers' existing lockfiles.
+
 ## 0.14.4
 
 - Updated TypeSafe SDK to 0.7.0; no tool behavior changes.
