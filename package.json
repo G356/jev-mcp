@@ -47,13 +47,13 @@
   ],
   "dependencies": {
     "@jkudish/jev-agent-tools": "^0.2.1",
-    "@modelcontextprotocol/node": "^2.1.1",
-    "@modelcontextprotocol/server": "^2.3.1",
+    "@modelcontextprotocol/node": "^2.1.2",
+    "@modelcontextprotocol/server": "^2.4.0",
     "@typesafe-ai/sdk": "^0.7.0",
     "zod": "^4.6.7"
   },
   "devDependencies": {
-    "@modelcontextprotocol/client": "^2.3.1",
+    "@modelcontextprotocol/client": "^2.4.0",
     "@types/node": "^22.0.0",
     "typescript": "^7.0.2"
   },
