@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.14.6
+
+- Updated MCP SDK to 2.4.0 and Node adapter to 2.1.2.
+
 ## 0.14.5
 
 - Updated the repository's locked Hono dependency to 4.13.13. No tool behavior changes; this does not enforce a Hono minimum in consumers' existing lockfiles.
