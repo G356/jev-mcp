@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.14.7
+
+- Updated the repository's locked Hono dependency to 4.13.14 and `@hono/node-server` to 2.1.5, including its static-file middleware fix. This package does not use that middleware; these lockfile updates do not enforce a minimum in consumers' existing lockfiles.
+
 ## 0.14.6
 
 - Updated MCP SDK to 2.4.0 and Node adapter to 2.1.2.
